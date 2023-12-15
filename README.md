@@ -4,7 +4,7 @@ File inspired by https://github.com/jwyg/data-journalism-courses/
 
 Project for collecting details on courses and programmes dedicated to teaching social data science from around the world
 
- If you'd like to help out, you can add or look at the issues.
+ If you'd like to help out, you can [add an issue](https://github.com/mariatens/social-data-science-courses/issues) or [pull request](https://github.com/mariatens/social-data-science-courses/pulls).
 
  ## Suggesting additions
  To suggest a social data science programme, please use the following format:
